@@ -1,0 +1,13 @@
+
+/* div {
+  position: relative;
+  display: inline;
+} */
+.imtip {
+  position: absolute;
+  display:inline;
+  top: 100%;
+  left: 46%;
+  margin-left:-70px;
+  margin-top:-60px;
+}
